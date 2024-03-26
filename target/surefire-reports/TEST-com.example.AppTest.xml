@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.AppTest" time="0.033" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.AppTest" time="0.034" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="c:\Users\senge\Desktop\demo\target\test-classes;c:\Users\senge\Desktop\demo\target\classes;C:\Users\senge\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\senge\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.class.path" value="d:\I4_Gic\s2\devOps\jenkin\demo\target\test-classes;d:\I4_Gic\s2\devOps\jenkin\demo\target\classes;C:\Users\senge\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\senge\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,9 +15,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
-    <property name="sun.java.command" value="C:\Users\senge\AppData\Local\Temp\surefire3839988719502230349\surefirebooter6970265658016280943.jar C:\Users\senge\AppData\Local\Temp\surefire3839988719502230349 2024-03-25T17-29-52_446-jvmRun1 surefire7575792170362394263tmp surefire_013648484955903680969tmp"/>
+    <property name="sun.java.command" value="C:\Users\senge\AppData\Local\Temp\surefire16280327064717002875\surefirebooter7232867462189593608.jar C:\Users\senge\AppData\Local\Temp\surefire16280327064717002875 2024-03-25T17-39-03_558-jvmRun1 surefire6322282666807940355tmp surefire_017000402965005736088tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="c:\Users\senge\Desktop\demo\target\test-classes;c:\Users\senge\Desktop\demo\target\classes;C:\Users\senge\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\senge\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="surefire.test.class.path" value="d:\I4_Gic\s2\devOps\jenkin\demo\target\test-classes;d:\I4_Gic\s2\devOps\jenkin\demo\target\classes;C:\Users\senge\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\senge\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\senge"/>
     <property name="user.language" value="en"/>
@@ -25,12 +25,12 @@
     <property name="java.version.date" value="2023-10-17"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-21"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="c:\Users\senge\Desktop\demo"/>
+    <property name="basedir" value="d:\I4_Gic\s2\devOps\jenkin\demo"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\senge\AppData\Local\Temp\surefire3839988719502230349\surefirebooter6970265658016280943.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\senge\AppData\Local\Temp\surefire16280327064717002875\surefirebooter7232867462189593608.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.1+12-LTS-29"/>
@@ -45,7 +45,7 @@
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\senge\AppData\Local\Temp\"/>
     <property name="java.version" value="21.0.1"/>
-    <property name="user.dir" value="c:\Users\senge\Desktop\demo"/>
+    <property name="user.dir" value="d:\I4_Gic\s2\devOps\jenkin\demo"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
@@ -58,5 +58,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="com.example.AppTest" time="0"/>
+  <testcase name="shouldAnswerWithTrue" classname="com.example.AppTest" time="0.003"/>
 </testsuite>
